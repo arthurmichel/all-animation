@@ -3,14 +3,10 @@ All Animation
 
 All Animation.css is a set of animations amusing to let your sexiest design. Are cross-browser animations that will give emphasis to your pages but as sliders, 3D effects...
 
-##[Try the demo](http://clovisdasilvaneto.github.io/all-animation/)
+###[Try the demo](http://clovisdasilvaneto.github.io/all-animation/)
 <a href="http://clovisdasilvaneto.github.io/all-animation/">Check out what this beautiful framework can do :D</a>
 
-
-### Collaborators:
-If you want to contribute, read the file: <a href="https://github.com/clovisdasilvaneto/all-animation/blob/master/contribuidores.md">contribuidores.md</a> ;)
-
-### How to Use All animation.css:
+## How to Use:
 
 É facil utilizar este framework css :D, veremos passo a passo como utilizá-lo...
 
@@ -114,4 +110,5 @@ Temos várias classe no lugar da class journal, vejamos quais são:
  <li>bomba</li>
 </ul>
 
-Email para contato: cloves13@hotmail.com
+### Collaborators:
+If you want to contribute, read the file: <a href="https://github.com/clovisdasilvaneto/all-animation/blob/master/contribuidores.md">contribuidores.md</a> ;)
