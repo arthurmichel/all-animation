@@ -14,13 +14,13 @@ All Animation.css is a set of animations amusing to let your sexiest design. Are
 Include the stylesheet, for the function framework correctly:
 
 Download the framework, <a href="http://clovisdasilvaneto.github.io/all-animation/css/all-animation.css" target="_blank">Click here</a>
-```
+```html
 <link rel="stylesheet" type="text/css" href="yourpath/all-animation.css" />
 ```
 
 ### Step 2, Html:
 
-```
+```html
 <div id="animation"></div>
 
 <button class="anny-class">Trigger class, go!</button>
