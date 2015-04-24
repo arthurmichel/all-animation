@@ -1,8 +1,7 @@
 All Animation
 =============
 
-All Animation.css é um conjunto de animações, divertidas para deixar seu projeto mais sexy. São animações cross-browser que darão mas ênfase a suas páginas como controles deslizantes, efeitos 3D’s..
-
+All Animation.css is a set of animations amusing to let your sexiest design. Are cross-browser animations that will give emphasis to your pages but as sliders,’s 3D effects
 
 ##[Try the demo](http://clovisdasilvaneto.github.io/all-animation/)
 <a href="http://clovisdasilvaneto.github.io/all-animation/">Veja uma demo dos efeitos que este imenso framework pode fazer :D</a>
