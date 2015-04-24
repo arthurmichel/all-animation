@@ -14,11 +14,10 @@ If you want to contribute, read the file: <a href="https://github.com/clovisdasi
 
 É facil utilizar este framework css :D, veremos passo a passo como utilizá-lo...
 
-Download the framework, <a href="http://clovisdasilvaneto.github.io/all-animation/css/all-animation.css" target="_blank">Click here</a>
-
 ### Step 1, Head:
 Include the stylesheet, for the function framework correctly:
 
+Download the framework, <a href="http://clovisdasilvaneto.github.io/all-animation/css/all-animation.css" target="_blank">Click here</a>
 ```
 <link rel="stylesheet" type="text/css" href="yourpath/all-animation.css" />
 ```
