@@ -1,31 +1,29 @@
 All Animation
 =============
 
-All Animation.css is a set of animations amusing to let your sexiest design. Are cross-browser animations that will give emphasis to your pages but as sliders,’s 3D effects
+All Animation.css is a set of animations amusing to let your sexiest design. Are cross-browser animations that will give emphasis to your pages but as sliders, 3D effects...
 
 ##[Try the demo](http://clovisdasilvaneto.github.io/all-animation/)
-<a href="http://clovisdasilvaneto.github.io/all-animation/">Veja uma demo dos efeitos que este imenso framework pode fazer :D</a>
+<a href="http://clovisdasilvaneto.github.io/all-animation/">Check out what this beautiful framework can do :D</a>
 
 
-### Contribuidores:
-Caso você queira contribuir com o nosso projeto, leia o arquivo: <a href="https://github.com/clovisdasilvaneto/all-animation/blob/master/contribuidores.md">contribuidores.md</a> ;)
+### Collaborators:
+If you want to contribute, read the file: <a href="https://github.com/clovisdasilvaneto/all-animation/blob/master/contribuidores.md">contribuidores.md</a> ;)
 
-### Como Usar:
+### How to Use All animation.css:
 
-É facil ultilizar este framework css :D, veremos passo a passo como ultilizá-lo...
+É facil utilizar este framework css :D, veremos passo a passo como utilizá-lo...
 
+Download the framework, <a href="http://clovisdasilvaneto.github.io/all-animation/css/all-animation.css" target="_blank">Click here</a>
 
-### Passo 1, inclua os arquivos necessários no head, para que o framework funcione corretamente:
-
-baixe o all animation, <a href="http://clovisdasilvaneto.github.io/all-animation/css/all-animation.css" target="_blank">clicando aqui</a>
+### Step 1, Head:
+Include the stylesheet, for the function framework correctly:
 
 ```
 <link rel="stylesheet" type="text/css" href="yourpath/all-animation.css" />
-<script type="text/javascript" src="yourpath/jquery.js"></script>
-
 ```
 
-### Passo 2, html:
+### Step 2, Html:
 
 ```
 <div id="animation"></div>
@@ -34,7 +32,7 @@ baixe o all animation, <a href="http://clovisdasilvaneto.github.io/all-animation
 
 ```
 
-### Passo 3, Jquery:
+### Step 3, Jquery:
 
 ```js
 $(".anny-class").click(function(){
@@ -52,7 +50,7 @@ setTimeout(function(){
 },2000);
 ```
 
-### Atenção:
+### Warning:
 
 Caso você queira adicionar alguma animação em um elemento que já sofreu uma outra animação deste framework, ou queira reiniciar a animação, você terá que remover a ultima animação e inserir a sua, ex:
 
@@ -64,7 +62,7 @@ Caso você queira adicionar alguma animação em um elemento que já sofreu uma 
 
 Temos várias classe no lugar da class journal, vejamos quais são:
 
-### Especiais:
+### Special:
 
 <ul>
  <li>dance</li>
